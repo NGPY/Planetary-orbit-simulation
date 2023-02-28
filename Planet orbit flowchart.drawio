@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T09:16:51.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dNcTjD_la_Jjq00vGwDl" version="20.8.23" type="github"><diagram id="bHfhth3OuuMRID4EjOSA" name="Page-1">3Vtbc6M2FP41fuyOQQbbjxs7u9tM0+5MOtPNU0cBBbQREgPCl/31lUDcJJy4HgwkLzE6CCHO+b5zkZQZ2ESHrwmMw3vmIzKz5/5hBrYz216ul+KvFBwLwQKsCkGQYL8QWbXgAf9CSjhX0gz7KG115IwRjuO20GOUIo+3ZDBJ2L7d7ZmR9ltjGCBD8OBBYkr/wT4PC6kNwLq+8Q3hIFSvBmCuZv4EvZcgYRlVL5zZwFrZt+C2uB3BcjDVPw2hz/YNkegJNgljvLiKDhtEpG5LvRXPfTlxt5p4gig/54GX7d3fdnZ32D4+3335RgDdbP/9zS5G2UGSKYX8waAvJPeIZmre/Fgqax9ijh5i6Mn2XuBhBm5CHhHRssSlGgslHB1OTtKqPl1ACrEI8eQoupQPLJS2jlp7XxvHKjUaNuziKhlUeAiqoWuViAullf+hIWBoyFALov5nCUXR8ghMU+y19ZKDBMmXzEULHTD/Ia8/Oar1qPrJ6+2h0W17LBtUfErjIdl8bN6rH8tb5XPFVJFvcECzhyAdTALE30KKabeGXZwOs5SyBBHI8a49jS5bqTd8Z1hMsIKFPddgMdfMnbIs8ZB6qkkCbSBHw5eBm0IPxkA5dKrPvhxNjoEmH3k4xYwKaS6YZylK5DA0znju0WRLMM8LpVfJaSlcpDQr5bKnBkbhZmJ5KWwMCUGEBQmMBBRilGAxe/GEdu97fePmDYI/4wMqfXhfhLc0g4AOwq+GJLzbO+HHJ68zJfLal5K3mlDpBZxhybs0kPH7s0x9dAY/iHnIaVO0l7jBUSb1JztoOEpCFj1l6dvE64Foq7bugG3yzF50gMAC1yLa6gMSbTkpoq0vJFoFjnKg5bBEK2NC/0lXmWY9thKw7qTrfFgUep0sLDS3ubAuhYWr+ZCVMywsLAMWj6J21JEhfCRvYwESHFAJlCJlAjfSk2JRBH5WNyLs+/LxmwSl+Bd8yoeSGIjlt+Rf59zMnK0cK+MsrVOglCfsBW0YYTKxooyiPE8iRBP14MF1VlbmaMCoy4NfzYFbZvV4D7GMgwGMkPghjMWGeaoENWEeSs8IfnWh/VfGCaY9Zp8Goh3HUOmw5aY1iXrzw7o+PZCdnXpqoXWxGjgiLgxY/MnO8HznuqfzPWQXWduA64GXlm43x3R17qCuzizcu3N/tXw25dS/wu54qb9lllI9ebmREjxr1Arb0izs9JXhOYuBMzyzJlSESuEO+a9TasqJhWONnlisP1hiMS7lbG3d0rV7yizcxbCZRTnvt1e1EOeYBma9NWIoczu2hwYOZbZZlL7vUNbYnJxAxu5cvIaleeDlfNhQVsKgWRx37alOKWrpu6+jb77aZjV80g1NSZE6+Nzl2OHfNgvI9x3+x3VT+lrcsq+FhZW+OXZtN3VuYXsr7Dil0F8pasTQ3/9W8RVD/1SosnIXn9x1P0G9a6xrE+ZqSxdjOdJR6ygdHdb84tMBmiddD3y0xzbXLh54x/6HGArH6aml1H59psEX+8w8RF/e7s9nmssQo2tJT3vXHRtrw2qpDFnvd2fN1Xg9eikBzDq9tVaP6A4njEYo9yl7zOVxOyrP2bGnn8jjZsFxfWDqSrS6DscNq0WzjPBCSAO5Da8SRS9E3susPLhY342gL5H7JL+Ph/JSnXTMDzMWEnkwMT+L+Ep59z7ONbrlckN5hKbjvJXVFVevZ7oTmb5uv4IOBegNKwyZ8Dv65rxlqnDgjB+YGf8mQZBL7MJKdzGBFDW8SCRSQPkjO1HpcXaMZLkb35kKbqWGA1RVWuwDi7FXKsCJY5bdON0JtnuYHyeF1OqYwYhINbPRW19W8MrT1nqbs+ccmDIGHnAqF9de4f/I8LzmPppo1v+NU1QF9b88gdv/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T09:18:11.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AHSsgH44j_0787z0Dt2t" version="20.8.23" type="github">
+  <diagram id="bHfhth3OuuMRID4EjOSA" name="Page-1">
+    <mxGraphModel dx="797" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-2" value="Load Menu" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="kDJT2uJxDYfJFHl3nCD_-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="100" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-5" value="decision = user input for which menu to enter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="kDJT2uJxDYfJFHl3nCD_-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="sourcePoint" />
+            <mxPoint x="250" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-7" value="If decision = Start new simulation" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="320" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="kDJT2uJxDYfJFHl3nCD_-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="290" as="sourcePoint" />
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="410" as="sourcePoint" />
+            <mxPoint x="360" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-11" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-12" value="Main game loop" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="470" as="sourcePoint" />
+            <mxPoint x="200" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-14" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-15" value="If decision = Load new simulation" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="480" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="510" as="sourcePoint" />
+            <mxPoint x="360" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-18" value="Load saved simulation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="620" as="sourcePoint" />
+            <mxPoint x="200" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-20" value="If decision = Settings" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="640" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="590" as="sourcePoint" />
+            <mxPoint x="360" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-22" value="Menu" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-23" value="Settings" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="770" as="sourcePoint" />
+            <mxPoint x="200" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-25" value="If decision = Exit" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="800" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="864.69" as="sourcePoint" />
+            <mxPoint x="360" y="864.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kDJT2uJxDYfJFHl3nCD_-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1000" as="sourcePoint" />
+            <mxPoint x="200" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-28" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="825" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-29" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-30" value="Main game loop" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-31" value="Load new environment with no objects" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-34" value="changes = check for changes made by the user to the parameters" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-35" value="If changes = new object" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="310" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-36" value="Create a new planet with mass m and volume v" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-37" value="If changes = new velocity" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="470" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kDJT2uJxDYfJFHl3nCD_-38" value="Edit the velocity of an existing object" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
